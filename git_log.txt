@@ -1,0 +1,51 @@
+commit 3ae969f45dfd7d60f2f520d7ca7fa073a9fb933d
+Merge: 65d7b75 1887e79
+Author: Ezequiel <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 09:16:05 2025 -0700
+
+    Resolved merge conflict by combining changes in index.html
+
+commit 1887e792a9a949f22ed00fa2266f16ba5ec12cc4
+Author: Ezequiel <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 09:09:53 2025 -0700
+
+    Add div about my favorite movie/game in index-fix
+
+commit 65d7b75f0ac371f1516d22ab0d8a48e11676316a
+Author: Ezequiel <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 08:53:59 2025 -0700
+
+    Added a div about my favorite food in main branch
+
+commit 2ddf10c4f52644e6936ab9497a690e804b51ee0c
+Author: Ezequiel <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 08:50:47 2025 -0700
+
+    Added new divs in the main branch
+
+commit c96fc2f0b2aebbb462fa4e79a7b960957a3e28e9
+Author: Ezequiel <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 08:39:58 2025 -0700
+
+    Added README and describe what the repo is
+
+commit 1fdc38cb2536e51424d87b9d16b112c87e2cd840
+Merge: 1d2bfc0 611dd1e
+Author: Zeke <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 08:23:04 2025 -0700
+
+    Merge pull request #1 from Zekee1/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 611dd1e920d0bc4067200d93bb82e993a5bd7660
+Author: Ezequiel <ezequiel.floresjr04@gmail.com>
+Date:   Thu Sep 4 08:00:53 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
